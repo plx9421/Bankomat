@@ -1,0 +1,1 @@
+"C:\Program Files\Java\jdk1.8.0_45\bin\javac.exe" -d bin -classpath C:\Users\Alexey\OneDrive\Документы\workspace.java\JavaRushHomeWork\src\com\javarush\test\level26\lesson15\big01 -sourcepath C:\Users\Alexey\OneDrive\Документы\workspace.java\JavaRushHomeWork\src\com\javarush\test\level26\lesson15\big01\*  CashMachine.java
