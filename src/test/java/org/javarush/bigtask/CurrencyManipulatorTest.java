@@ -1,4 +1,6 @@
-package org.javarush.bigtask.bankomat;
+package org.javarush.bigtask;
+
+import org.javarush.bigtask.bankomat.CurrencyManipulator;
 
 import java.util.HashMap;
 import java.util.Map;
